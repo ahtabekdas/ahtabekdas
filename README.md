@@ -8,19 +8,19 @@
 
 #### 💡 My Data Science Experience
 ##### **Mastering Applied Data Science with Deep Learning Bootcamp** (08/2023-02/2024)
-- Completed a 6-month intensive bootcamp focused on advanced data science techniques, specializing in deep learning.
-- Developed expertise in designing, training, and evaluating deep neural networks for various applications such as image recognition, natural language processing, and time series analysis.
-- Gained hands-on experience with industry-standard tools and frameworks like TensorFlow and Keras.
-- Executed multiple real-world projects, demonstrating the ability to translate theoretical concepts into practical solutions.
+- During this 6-month intensive bootcamp, I focused on advanced data science techniques, especially deep learning.
+- I developed expertise in designing, training, and evaluating deep neural networks for various applications, including image recognition, natural language processing, and time series analysis.
+- Thanks to hands-on experience with industry-standard tools and frameworks such as TensorFlow and Keras, I enhanced my ability to apply theoretical concepts to real-world projects.
+- I executed multiple real-world projects, demonstrating the ability to translate theoretical concepts into practical solutions.
 #### 🛠 Skills
-- Deep Learning: Neural Networks, CNNs, RNNs, GANs
-- Machine Learning: Supervised and Unsupervised Learning, Feature Engineering
-- Programming Languages: Python
-- Data Manipulation: NumPy, Pandas
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Tools/Frameworks: TensorFlow, Keras, scikit-learn, Pycaret
-- Problem Solving: Analytical Thinking, Experimentation
-- Communication: Data Visualization, Technical Documentation
+- **Deep Learning:** Neural Networks, CNNs, RNNs, GANs
+- **Machine Learning:** Supervised and Unsupervised Learning, Feature Engineering
+- **Programming Languages:** Python
+- **Data Manipulation:** NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Tools/Frameworks:** TensorFlow, Keras, scikit-learn, Pycaret
+- **Problem Solving:** Analytical Thinking, Experimentation
+- **Communication:** Data Visualization, Technical Documentation
 
 <!---
 ahtabekdas/ahtabekdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
