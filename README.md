@@ -19,6 +19,7 @@
 - **Data Manipulation:** NumPy, Pandas
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools/Frameworks:** TensorFlow, Keras, scikit-learn, Pycaret
+- **Metric Research:** Experience in conducting metric research using GVSearch
 - **Problem Solving:** Analytical Thinking, Experimentation
 - **Communication:** Data Visualization, Technical Documentation
 
