@@ -5,6 +5,7 @@
 - My interests span across machine learning, deep learning, artificial intelligence, data science, and cybersecurity. I am dedicated to deepening my knowledge and acquiring new skills in these areas, always remaining open to learning new things and adopting a results-oriented approach to my development.
 #### 🤝 Collaboration
 - I am looking for collaboration opportunities in artificial intelligence and data science projects. Eager to be involved in innovative and challenging projects, I aim to apply my knowledge and skills in practical settings.
+#### 📬 You can reach me at this email:  ahtabekdas@gmail.com
 
 #### 💡 My Data Science Experience
 ##### **Mastering Applied Data Science with Deep Learning Bootcamp** (08/2023-02/2024)
