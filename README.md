@@ -13,9 +13,6 @@
 - I developed expertise in designing, training, and evaluating deep neural networks for various applications, including image recognition, natural language processing, and time series analysis.
 - Thanks to hands-on experience with industry-standard tools and frameworks such as TensorFlow and Keras, I enhanced my ability to apply theoretical concepts to real-world projects.
 - I executed multiple real-world projects, demonstrating the ability to translate theoretical concepts into practical solutions.
-
-#### **HarvardX: CS50's Introduction to Artificial Intelligence with Python**
-- Currently participating in this prestigious course offered by Harvard University, gaining a foundational understanding of artificial intelligence and its implementation using Python.
   
 #### 🛠 Skills
 - **Deep Learning:** Neural Networks, CNNs, RNNs, GANs
